@@ -189,10 +189,3 @@ This project is open-source and available under the MIT License.
 GitHub: https://github.com/Shubham-css
 
 ---
-
-## ⭐ Acknowledgements
-
-* OpenCV Documentation
-* Tesseract OCR
-
----
